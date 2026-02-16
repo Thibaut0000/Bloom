@@ -227,9 +227,3 @@ Expo Router provides file-based routing with a tab navigator at the root. The cu
 5. Open a Pull Request
 
 Please follow conventional commit messages and ensure TypeScript compiles without errors before submitting.
-
----
-
-## License
-
-This project is proprietary. All rights reserved.
